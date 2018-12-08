@@ -4,7 +4,7 @@
     Perhaps later on this can be used to create an untether
     I'm not going to work it out
     Lokihardt thanks for your research.
-    - Sem Voigtlander
+    - Rhaym Jailbreaker
 */
 
 
